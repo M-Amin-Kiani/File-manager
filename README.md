@@ -3,3 +3,9 @@ In this project, we will use a graphic file management similar to what the compu
 [DS-Project-Resources.pdf](https://github.com/M-Amin-Kiani/File-manager/files/11222891/DS-Project-Resources.pdf) //
 ==== //
 [Doc_pj.pdf](https://github.com/M-Amin-Kiani/File-manager/files/11222892/Doc_pj.pdf)
+
+
+
+Thanks to the cooperation of my good friends Ali Aqakhani and Arman Khalili who were involved in making this interesting project...
+
+QT GU with database
